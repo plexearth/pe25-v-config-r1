@@ -1,0 +1,36 @@
+{
+  "sysAppData": {
+    "defaultEdition": "PRO",
+    "editions": {
+      "PRO": {
+        "appId": "4F371CD755CE4635A26E1C40C33D31B0",
+        "folder": "Plex-Earth Pro"
+      },
+      "BASIC": {
+        "appId": "A581249E293B4CB39050085209826797",
+        "folder": "Plex-Earth Basic"
+      },
+      "LITE": {
+        "appId": "926B59EF76824460B98CEA9E8ECF5CA4",
+        "folder": "Plex-Earth Lite"
+      }
+    }
+  },
+  "sysVars": {
+    "VARTAG_AIRBUS_CREDITS_PER_TILE": "1",
+    "VARTAG_HEXAGON_CREDITS_PER_TILE": "4",
+    "VARTAG_MAXAR_CREDITS_PER_TILE": "2",
+    "VARTAG_NEARMAP_CREDITS_PER_TILE": "5"
+  },
+  "sysStrings": {},
+  "sysConstants": {},
+  "sysConditionSets": {},
+  "sysSelections": {},
+  "sysCommands": {},
+  "sysCommandLimitSets": {},
+  "sysNamedActions": {},
+  "sysNamedFuncs": {},
+  "sysCampaigns": {},
+  "sysNotifs": {},
+  "sysRefs": {}
+}
