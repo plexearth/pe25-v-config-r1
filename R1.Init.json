@@ -8,35 +8,7 @@
         "isEnabled": "true",
         "name": "Plex-Earth Pro",
         "shortName": "Pro",
-        "folder": "Plex-Earth Pro",
-        "activationConfig": {
-          "title": "Plex-Earth Pro",
-          "header": "Plex-Earth Pro",
-          "icon": "[$URL_GLOBAL_CDN]/assets/app/logo.png",
-          "canTrial": "true",
-          "trialRef": "F103737B054E4365BE0733B007821BE8",
-          "trialHeader": "Start Your Free Trial",
-          "trialText": "Try Plex-Earth Pro free for 7 days—no credit card needed.",
-          "trialButtonText": "Try It Now >",
-          "trialButtonIcon": "[$URL_GLOBAL_CDN]/assets/app/icons/outline_rocket_launch_white_48dp.png",
-          "trialLearnMoreText": "",
-          "canActivateCode": "true",
-          "activateCodeHeader": "Activate Your Subscription",
-          "activateCodeText": "Unlock advanced tools and access premium data to enhance your design experience.",
-          "messageActivationRequiredTitle": "Activation Required",
-          "messageActivationRequiredText": "To get started with Plex-Earth Pro, you need to activate it on this computer. You can either start a 7-day free trial or activate your subscription.<LineBreak/><LineBreak/>Please proceed with activation now.",
-          "messageActivationRequiredAcceptButtonText": "Yes, Proceed Now",
-          "messageActivationRequiredCancelButtonText": "Not Now",
-          "messageTrialSuccessfullyStartedTitle": "Free Trial Started",
-          "messageTrialSuccessfullyStartedText": "Your free trial has been activated successfully!<LineBreak/><LineBreak/>Explore all the features of Plex-Earth Pro and experience the power of premium tools and data for your designs.",
-          "messageTrialSuccessfullyStartedButtonText": "Finish",
-          "messageCodeSuccessfullyActivatedTitle": "Plex-Earth Pro Activated",
-          "messageCodeSuccessfullyActivatedText": "Your subscription has been activated successfully!<LineBreak/><LineBreak/>You now have access to all the features of Plex-Earth Pro. Enjoy designing with premium tools and data.",
-          "messageCodeSuccessfullyActivatedButtonText": "Finish",
-          "messageUnhandledErrorText": "Please contact our Support Team at <Hyperlink NavigateUri='[$EMAIL_SUPPORT]'>support@plexscape.com</Hyperlink>",
-          "onGotoTrialLearnMore": "https://plexearth.com",
-          "onGotoServicePlans": "https://plexearth.com/pricing"
-        }
+        "folder": "Plex-Earth Pro"
       },
       "BASIC": {
         "appId": "A581249E293B4CB39050085209826797",
@@ -44,35 +16,7 @@
         "isEnabled": "true",
         "name": "Plex-Earth Basic",
         "shortName": "Basic",
-        "folder": "Plex-Earth Basic",
-        "activationConfig": {
-          "title": "Plex-Earth Basic",
-          "header": "Plex-Earth Basic",
-          "icon": "[$URL_GLOBAL_CDN]/assets/app/logo.png",
-          "canTrial": "true",
-          "trialRef": "F103737B054E4365BE0733B007821BE8",
-          "trialHeader": "Start Your Free Trial",
-          "trialText": "Try Plex-Earth Basic free for 7 days—no credit card needed.",
-          "trialButtonText": "Try It Now >",
-          "trialButtonIcon": "[$URL_GLOBAL_CDN]/assets/app/icons/outline_rocket_launch_white_48dp.png",
-          "trialLearnMoreText": "",
-          "canActivateCode": "true",
-          "activateCodeHeader": "Activate Your Subscription",
-          "activateCodeText": "Unlock advanced tools and access premium data to enhance your design experience.",
-          "messageActivationRequiredTitle": "Activation Required",
-          "messageActivationRequiredText": "To get started with Plex-Earth Basic, you need to activate it on this computer. You can either start a 7-day free trial or activate your subscription.<LineBreak/><LineBreak/>Please proceed with activation now.",
-          "messageActivationRequiredAcceptButtonText": "Yes, Proceed Now",
-          "messageActivationRequiredCancelButtonText": "Not Now",
-          "messageTrialSuccessfullyStartedTitle": "Free Trial Started",
-          "messageTrialSuccessfullyStartedText": "Your free trial has been activated successfully!<LineBreak/><LineBreak/>Explore all the features of Plex-Earth Basic and experience the power of premium tools and data for your designs.",
-          "messageTrialSuccessfullyStartedButtonText": "Finish",
-          "messageCodeSuccessfullyActivatedTitle": "Plex-Earth Basic Activated",
-          "messageCodeSuccessfullyActivatedText": "Your subscription has been activated successfully!<LineBreak/><LineBreak/>You now have access to all the features of Plex-Earth Basic. Enjoy designing with premium tools and data.",
-          "messageCodeSuccessfullyActivatedButtonText": "Finish",
-          "messageUnhandledErrorText": "Please contact our Support Team at <Hyperlink NavigateUri='[$EMAIL_SUPPORT]'>support@plexscape.com</Hyperlink>",
-          "onGotoTrialLearnMore": "https://plexearth.com",
-          "onGotoServicePlans": "https://plexearth.com/pricing"
-        }
+        "folder": "Plex-Earth Basic"
       },
       "LITE": {
         "appId": "926B59EF76824460B98CEA9E8ECF5CA4",
@@ -81,18 +25,42 @@
         "name": "Plex-Earth Lite",
         "shortName": "Lite",
         "folder": "Plex-Earth Lite"
+      },
+      "X-VIRTO-PRO": {
+        "appId": "E66D5AF7FCAF4954801DAE0B3526006F",
+        "isAvail": "true",
+        "isEnabled": "true",
+        "name": "Plex-Earth Pro for Virto",
+        "shortName": "Pro",
+        "folder": "Plex-Earth Pro for Virto"
+      },
+      "X-VIRTO-BASIC": {
+        "appId": "0D3B1446F43147949274BA7411CAF640",
+        "isAvail": "true",
+        "isEnabled": "true",
+        "name": "Plex-Earth Basic for Virto",
+        "shortName": "Basic",
+        "folder": "Plex-Earth Basic for Virto"
       }
     }
   },
-  "sysVars": {
-    "VARTAG_AIRBUS_CREDITS_PER_TILE": "1",
-    "VARTAG_HEXAGON_CREDITS_PER_TILE": "4",
-    "VARTAG_MAXAR_CREDITS_PER_TILE": "2",
-    "VARTAG_NEARMAP_CREDITS_PER_TILE": "5"
-  },
+  "sysVars": {},
   "sysStrings": {},
   "sysConstants": {
-    "[$URL_GLOBAL_CDN]": "https://pe25-v-app-cdn.plexearth360.com"
+    "[$URL_GLOBAL_CDN]": "https://pe25-v-app-cdn.plexearth360.com",
+    "[$CORE_DEFAULT_IMAGERY_PROVIDER]": "1B3FB1EC-80AA-428F-A04F-9308E566FD35",
+    "[$CORE_DEFAULT_TERRAIN_PROVIDER]": "5610CB2F-9CA4-4659-8618-8AB7FA4A7C27",
+    "[$CORE_DEFAULT_GEOCODING_PROVIDER]": "977496FF-B5A5-4260-A02D-DE7E4F076E25",
+    "[$CORE_SWITCH_AIRBUS]": "true",
+    "[$CORE_SWITCH_AZURE_MAPS]": "true",
+    "[$CORE_SWITCH_GOOGLE_MAPS]": "true",
+    "[$CORE_SWITCH_HEXAGON]": "true",
+    "[$CORE_SWITCH_NEARMAP]": "true",
+    "[$CORE_SWITCH_MAXAR]": "true",
+    "[$CORE_CREDITS_PER_IMAGE_AIRBUS]": "1",
+    "[$CORE_CREDITS_PER_IMAGE_HEXAGON]": "4",
+    "[$CORE_CREDITS_PER_IMAGE_MAXAR]": "2",
+    "[$CORE_CREDITS_PER_IMAGE_NEARMAP]": "5"
   },
   "sysConditionSets": {},
   "sysSelections": {},
